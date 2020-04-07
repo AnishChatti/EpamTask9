@@ -1,0 +1,24 @@
+.form1 
+{
+width: 275px;
+position: absolute;
+left: 37%;
+top: 25%;
+right:70%;
+bottom:50%;
+}
+.buttons
+{
+width: 275px;
+}
+
+.boxblue
+{
+	background: #20B2AA;
+
+}
+.content
+{
+	max-width: 275px;
+	margin: auto;
+}
